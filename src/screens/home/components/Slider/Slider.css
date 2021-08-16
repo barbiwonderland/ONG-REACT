@@ -1,0 +1,71 @@
+.carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.4;
+  justify-content: center;
+  margin: auto;
+  height: 100vh;
+  width: 100vw;
+}
+.carousel-item {
+  background-color: black;
+  position: static;
+}
+.carousel-inner {
+  margin: auto;
+  justify-content: center;
+  height: 60vh !important;
+  width: 100vw !important;
+}
+.sliderTitles {
+  font-family: "Titillium Web", sans-serif !important;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+}
+.sliderSubtitles {
+  font-size: 0.9rem;
+  font-family: "Open Sans", sans-serif !important;
+  text-align: center;
+}
+.carousel-control-next-icon {
+  background-color: transparent;
+}
+
+.notArrow > a,
+span {
+  visibility: hidden;
+}
+.carousel-control-next,
+.carousel-control-prev {
+  color: transparent;
+}
+.carousel-control-next:focus,
+.carousel-control-next:hover,
+.carousel-control-prev:focus,
+.carousel-control-prev:hover {
+  background: transparent;
+  color: transparent;
+}
+
+@media (max-width: 600px) {
+  .carousel-inner {
+    margin: auto;
+    justify-content: center;
+    height: 30vh !important;
+    width: 100vw !important;
+  }
+  .carousel-item img {
+    object-fit: cover;
+    object-position: center;
+    opacity: 0.3;
+    justify-content: center;
+    margin: auto;
+    height: 40vh;
+    width: 100vw;
+  }
+  .sliderSubtitles {
+    font-size: 0.6rem;
+    font-family: "Open Sans", sans-serif !important;
+    text-align: center;
+  }
+}

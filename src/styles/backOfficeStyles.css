@@ -1,0 +1,24 @@
+/** NavBar BackOfficce **/
+
+.navbar-backofice {
+  background-color: #E3817D;
+}
+
+.btn-sidebar {
+  background: transparent;
+  border: none;
+  transition: transform .2s;
+}
+
+.btn-sidebar:hover {
+  transform: scale(1.5); 
+}
+
+/** Testimonials Form BackOfficce **/
+
+.form-testimonials {
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+  background-color: #9AC9FB;
+}

@@ -1,0 +1,18 @@
+.btn-donar {
+  margin-top: 20px;
+  padding: 6px 30px;
+  background-color: #fff;
+  border: 3px solid #9AC9FB;
+  color: #9AC9FB;
+  transition: background-color .5s ease-in-out;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: 2px;  
+}
+
+.btn-donar:hover {
+  background-color: #9AC9FB;
+  color: #fff;
+}

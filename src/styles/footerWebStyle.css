@@ -1,0 +1,21 @@
+footer {
+  margin: auto;
+}
+footer .my-card {
+  height: 160px;
+  width: 250px;
+}
+footer p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+footer > * a {
+  color: #9ac9fb;
+  text-decoration: none;
+  font-family: 'Titillium Web', sans-serif;
+  font: size 1.3rem;
+}
+footer > * a:hover {
+  color: #7bb4f0;
+  font-family: 'Titillium Web', sans-serif;
+}

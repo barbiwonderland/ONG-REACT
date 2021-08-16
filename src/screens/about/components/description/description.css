@@ -1,0 +1,15 @@
+.description {
+  font-family: 'Open Sans', sans-serif;
+  background-color: hsla(60, 92%, 76%, 0.5);
+}
+/*
+Then with Sass we can define the yellow color:
+
+$yellow: #fafa88; 
+
+which is the same as hsla(60, 92%, 76%, 1), and use that variable here as:
+
+background-color: rgba($yellow, 0.5);
+
+to get the transparency
+*/

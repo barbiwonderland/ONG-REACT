@@ -1,0 +1,9 @@
+.homeTestimonialsImg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 120px;
+  width: 120px;
+  background-position: center;
+  border-radius: 5px;
+  border: 1px solid black;
+}
