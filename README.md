@@ -1,6 +1,7 @@
 # Ong Client
-##### Project created as a team in the aceleration of React.JS on Alkemy, working with agile methodologies like JIRA.
+### Project created as a team in the aceleration of React.JS on Alkemy, working with agile methodologies like JIRA.
 
+[![Home](https://i.ibb.co/r6Z6fR5/alkmy.png "Home")](https://i.ibb.co/r6Z6fR5/alkmy.png "Home")
 # Documentation
 
 ## ProgressBar
